@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-WebGL3D-0.1.0";
 const contentToCache = [
     "Build/543a08541e68856d01563d56a3453def.loader.js",
     "Build/765aa62834b7a9aeb40f8668b41c6181.framework.js.unityweb",
-    "Build/f8ebc2ea471c501bf07c522a6070a964.data.unityweb",
+    "Build/796c7ac45de0783cd833f9dd6df2ee25.data.unityweb",
     "Build/146a2929a720c49a353a41739de64e57.wasm.unityweb",
     "TemplateData/style.css"
 
